@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
+      <mapping pattern="bd_alarmas-journal" type="PLAIN_TEXT" />
+      <mapping pattern="bd_alarmas" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
